@@ -1,4 +1,4 @@
-Global Footwear Sales Dashboard
+## Global Footwear Sales Dashboard
 
 ## About the Project
 
