@@ -25,3 +25,6 @@ This dashboard helps identify top-performing brands, profitable categories, and 
 - Creating KPIs using DAX
 - Designing interactive dashboards
 - Storytelling with data
+## Dashboard Preview
+
+![Dashboard](Screenshot 2026-02-18 231022.png)
