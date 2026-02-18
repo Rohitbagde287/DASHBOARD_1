@@ -1,4 +1,5 @@
 Global Footwear Sales Dashboard
+
 ##About the Project
 
 This project is an interactive sales dashboard built in Power BI to analyze global footwear sales performance. It transforms raw data into meaningful insights to support business decisions.
